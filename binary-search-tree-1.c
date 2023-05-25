@@ -25,6 +25,8 @@ int main()
 	int key;
 	Node* head = NULL;
 	Node* ptr = NULL
+	
+	printf("[----- [윤혜준] [2022041021] -----]"); 
 
 	do{
 		printf("\n\n");
